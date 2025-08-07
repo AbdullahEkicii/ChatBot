@@ -1,6 +1,6 @@
 # 🤖 ModernChat - AI Chat Assistant
 
-**ModernChat**, yapay zeka destekli, eğitilebilir ve modern görünümlü bir sohbet asistanıdır. Python ve Tkinter kullanılarak geliştirilmiştir. Minimalist bir tasarım, kullanıcı dostu arayüz ve gerçek zamanlı eğitim kabiliyeti sunar.
+**ModernChat**, yapay zeka destekli, eğitilebilir ve modern görünümlü bir sohbet asistanıdır. Python ve Tkinter kullanılarak geliştirilmiştir. Minimalist bir tasarım, kullanıcı dostu arayüz ve gerçek zamanlı eğitim kabiliyeti sunar. Veritabanında bulunan soru cevap eşleşmesi sistemi ile cevap verir. Verisetini elle kendim oluşturdum tabikide çok az kalıyor. Daha sonrasında oluşturduğum 8milyon 500 bin satırlık json dosyamı büyüklüğünden dolayı ekliyemedim zaten proje içinde kullanılamıyor sistem yetersiz kalıyor. Şuanda kullandığı veriseti 15 bin satır karşılaştırmayı size bırakıyorum. Verileri kelime kökleri ve türkçeye özel işlemlerle ayırıp yakın cevabı döndüren bu projem:
 
 <img width="806" height="652" alt="{8C6337B7-E1F5-4D67-A8B0-62D712436EA7}" src="https://github.com/user-attachments/assets/0ec5d55e-c887-4ad3-bb4c-5045a7d4bda4" />
 
