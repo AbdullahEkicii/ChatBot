@@ -4,7 +4,6 @@
 
 <img width="806" height="652" alt="{8C6337B7-E1F5-4D67-A8B0-62D712436EA7}" src="https://github.com/user-attachments/assets/0ec5d55e-c887-4ad3-bb4c-5045a7d4bda4" />
 
-
 ---
 
 ## 🚀 Özellikler
